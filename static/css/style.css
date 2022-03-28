@@ -1,4 +1,9 @@
 .text-align-center {
+  background:#AFECFA;
+  color: #333;
+
+  font-family: Verdana;
+
   line-height: 100px;
   text-align: center;
   vertical-align: middle;
