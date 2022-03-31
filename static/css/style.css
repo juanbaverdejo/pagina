@@ -1,11 +1,11 @@
-#general{
+.general{
   margin: auto;
-  margin-top: auto;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
-  height: auto;
+  width:793px;
+  height: 1122px;
   font-family: Verdana;
+  background-color: #ffffff;
+  min-width: 100px;
+  border:#202021 5px dashed;
 }
 
 .text-align-center {
@@ -22,22 +22,22 @@
 .cuerpo{
   text-align: right;
 }
+
 .izquierda{
   float:left;
-  width: 40%;
-  height: 60%;
+  width:317.2px;
+  height: 1122px;
   background-color: #38b6ff31;
 }
 
 .derecha{
-  float:right;
-  width: 60%;
-  height: 100%;
-  background-color: #ffffff;
+  float:left;
+  width: 475.8px;
+  background-color: #fcfcfc;
   text-align: left;
   color: #202021;
-  
 }
+
 .titulo{
   font-size: 500%;
   margin-top: 8%;
@@ -62,8 +62,7 @@
 }
 .imgRedonda {
   margin: auto;
-  width:300px;
-  height:300px;
+  width:200px;
   border-radius:150px;
   border:10px solid rgb(255, 255, 255);
   margin-top: 8%;
